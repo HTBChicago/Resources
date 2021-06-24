@@ -5,7 +5,7 @@ Let a member of the admin team know that you want access to the dedicated VPN an
 <br>
 
 The `Dedicated Labs` tab provides the IP address of the machines we are doing for the meetup. If you are able to see the machine that means you have access to the dedicated VPN.
-<img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123170942-bb483880-d440-11eb-834c-76e426afea87.png">
+<img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123207613-48ac7c80-d483-11eb-8d38-494e24e8a629.png">
 
 <br>
 
