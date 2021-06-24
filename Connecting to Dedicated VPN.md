@@ -22,4 +22,5 @@ Switch over to the `Access` tab on the left hand side to switch over to the Dedi
 
 <br>
 
-<img width="1005" alt="image" src="https://user-images.githubusercontent.com/84935721/123172127-47a72b00-d442-11eb-981a-c9e7c2625d2a.png">
+<img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123207702-71347680-d483-11eb-8d94-032ce2206974.png">
+
