@@ -24,4 +24,11 @@ Switch over to the `Access` tab on the left hand side to switch over to the Dedi
 
 <img width="1259" alt="image" src="https://user-images.githubusercontent.com/84935721/123207760-83161980-d483-11eb-949b-4453aac6079b.png">
 
+<br>
+
+Navigate to the OpenVPN file on your Kali machine
+
+`sudo openvpn --config FILENAME.ovpn`
+
+<img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123208752-43503180-d485-11eb-80a1-5ae1fab8c708.png">
 
