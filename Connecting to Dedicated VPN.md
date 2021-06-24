@@ -10,7 +10,7 @@ The `Dedicated Labs` tab provides the IP address of the machines we are doing fo
 <br>
 
 Switch over to the `Access` tab on the left hand side to switch over to the Dedicated VPN.
-<img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123171523-8f798280-d441-11eb-82bd-466da6e97312.png">
+<img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123207873-b2c52180-d483-11eb-9baa-ea9cbd603fbb.png">
 
 <br>
 
@@ -22,6 +22,6 @@ Switch over to the `Access` tab on the left hand side to switch over to the Dedi
 
 <br>
 
-<img width="1005" alt="image" src="https://user-images.githubusercontent.com/84935721/123207760-83161980-d483-11eb-949b-4453aac6079b.png">
+<img width="1259" alt="image" src="https://user-images.githubusercontent.com/84935721/123207760-83161980-d483-11eb-949b-4453aac6079b.png">
 
 
