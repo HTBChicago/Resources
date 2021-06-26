@@ -1,5 +1,5 @@
 # Hypervisors
 
-https://www.virtualbox.org/wiki/Downloads
+[VirtualBox] https://www.virtualbox.org/wiki/Downloads
 
-https://www.vmware.com/products/workstation-player.html
+[VMware Player] https://www.vmware.com/products/workstation-player.html
