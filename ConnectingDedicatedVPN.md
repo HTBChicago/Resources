@@ -32,3 +32,12 @@ Navigate to the OpenVPN file on your Kali machine
 
 <img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123208752-43503180-d485-11eb-80a1-5ae1fab8c708.png">
 
+<br>
+
+<img width="1001" alt="image" src="https://user-images.githubusercontent.com/27873299/124331196-86309a00-db54-11eb-80aa-bade9e9d5a01.png">
+
+<br>
+
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/27873299/124331231-92b4f280-db54-11eb-87c1-78f245b55c1f.png">
+
+
