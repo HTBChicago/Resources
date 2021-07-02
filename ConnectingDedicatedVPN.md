@@ -5,12 +5,12 @@ Let a member of the admin team know that you want access to the dedicated VPN an
 <br>
 
 The `Dedicated Labs` tab provides the IP address of the machines we are doing for the meetup. If you are able to see the machine that means you have access to the dedicated VPN.
-<img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123207613-48ac7c80-d483-11eb-8d38-494e24e8a629.png">
+<img width="1259" alt="image" src="https://user-images.githubusercontent.com/84935721/123207613-48ac7c80-d483-11eb-8d38-494e24e8a629.png">
 
 <br>
 
 Switch over to the `Access` tab on the left hand side to switch over to the Dedicated VPN.
-<img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123207873-b2c52180-d483-11eb-9baa-ea9cbd603fbb.png">
+<img width="1259" alt="image" src="https://user-images.githubusercontent.com/84935721/123207873-b2c52180-d483-11eb-9baa-ea9cbd603fbb.png">
 
 <br>
 
@@ -30,7 +30,7 @@ Navigate to the OpenVPN file on your Kali machine
 
 `sudo openvpn --config FILENAME.ovpn`
 
-<img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123208752-43503180-d485-11eb-80a1-5ae1fab8c708.png">
+<img width="1259" alt="image" src="https://user-images.githubusercontent.com/84935721/123208752-43503180-d485-11eb-80a1-5ae1fab8c708.png">
 
 <br>
 
@@ -38,7 +38,7 @@ Navigate to the OpenVPN file on your Kali machine
 
 <br>
 
-<img width="823" alt="image" src="https://user-images.githubusercontent.com/27873299/124331452-d6a7f780-db54-11eb-90db-4d3e9026c32a.png">
+<img width="1259" alt="image" src="https://user-images.githubusercontent.com/27873299/124331452-d6a7f780-db54-11eb-90db-4d3e9026c32a.png">
 
 
 
