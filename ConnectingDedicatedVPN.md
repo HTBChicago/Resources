@@ -1,5 +1,5 @@
 
-Let a member of the admin team know that you want access to the dedicated VPN and if there are spots available you will be added, once added you should see the `Dedicated Labs` in the lower left hand corner.
+Let a member of the admin team know that you want access to the dedicated VPN and provide them your HTB handle. If there are spots available you will be added, once added you should see the `Dedicated Labs` in the lower left hand corner.
 <img width="1523" alt="image" src="https://user-images.githubusercontent.com/84935721/123170974-c8652780-d440-11eb-83de-74b527c967ea.png">
 
 <br>
